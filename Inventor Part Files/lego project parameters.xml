@@ -33,26 +33,33 @@
     <ParamWithValue>
       <name>d3</name>
       <typeCode>in</typeCode>
-      <value>0.1929 in</value>
+      <value>0.3783 in</value>
       <comment />
       <isKey>false</isKey>
     </ParamWithValue>
     <ParamWithValue>
       <name>d4</name>
       <typeCode>in</typeCode>
-      <value>0.0781 in</value>
+      <value>0.1929 in</value>
       <comment />
       <isKey>false</isKey>
     </ParamWithValue>
     <ParamWithValue>
       <name>d5</name>
       <typeCode>in</typeCode>
-      <value>0.058 in</value>
+      <value>0.0781 in</value>
       <comment />
       <isKey>false</isKey>
     </ParamWithValue>
     <ParamWithValue>
       <name>d6</name>
+      <typeCode>in</typeCode>
+      <value>0.058 in</value>
+      <comment />
+      <isKey>false</isKey>
+    </ParamWithValue>
+    <ParamWithValue>
+      <name>d7</name>
       <typeCode>in</typeCode>
       <value>0.0488 in</value>
       <comment />
